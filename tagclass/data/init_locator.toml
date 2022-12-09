@@ -1,0 +1,271 @@
+[behavior]
+root = 'method'
+state = "2"
+
+[browsermodifier]
+root = "behavior"
+state = "2"
+
+[constructor]
+root = "behavior"
+state = "2"
+
+[exploit]
+root = "behavior"
+state = "2"
+
+[hacktool]
+root = "behavior"
+state = "2"
+
+[joke]
+root = "behavior"
+state = "2"
+
+[misleading]
+root = "behavior"
+state = "2"
+
+[monitoringtool]
+root = "behavior"
+state = "2"
+
+[program]
+root = "behavior"
+state = "2"
+
+[pws]
+root = "behavior"
+state = "2"
+
+[psw]
+root = "behavior"
+state = "2"
+
+[ransom]
+root = "behavior"
+state = "2"
+
+[remoteaccess]
+root = "behavior"
+state = "2"
+
+[rogue]
+root = "behavior"
+state = "2"
+
+[settingmodifier]
+root = "behavior"
+state = "2"
+
+[softwarebundler]
+root = "behavior"
+state = "2"
+
+[spammer]
+root = "behavior"
+state = "2"
+
+[spoofer]
+root = "behavior"
+state = "2"
+
+[tool]
+root = "behavior"
+state = "2"
+
+[trojanclicker]
+root = "behavior"
+state = "2"
+
+[trojandownloader]
+root = "behavior"
+state = "2"
+
+[trojannotifier]
+root = "behavior"
+state = "2"
+
+[trojanproxy]
+root = "behavior"
+state = "2"
+
+[trojanspy]
+root = "behavior"
+state = "2"
+
+[spy]
+root = "behavior"
+state = "2"
+
+[virtool]
+root = "behavior"
+state = "2"
+
+[ddos]
+root = "behavior"
+state = "2"
+
+[backdoor]
+root = "behavior"
+state = "2"
+
+[virus]
+root = "behavior"
+state = "2"
+
+[trojan]
+root = "behavior"
+path = "gen"
+state = "2"
+
+[trj]
+root = "behavior"
+path = "gen"
+state = "2"
+
+[pua]
+root = "behavior"
+state = "2"
+
+[pup]
+root = "behavior"
+state = "2"
+
+[spyware]
+root = "behavior"
+state = "2"
+
+[adware]
+root = "behavior"
+state = "2"
+
+[worm]
+root = "behavior"
+state = "2"
+
+[bot]
+root = "behavior"
+state = "2"
+
+[rootkit]
+root = "behavior"
+state = "2"
+
+[ransomware]
+root = "behavior"
+state = "2"
+
+[bootkit]
+root = "behavior"
+state = "2"
+
+[downloader]
+root = "behavior"
+state = "2"
+
+[dropper]
+root = "behavior"
+state = "2"
+
+[keylogger]
+root = "behavior"
+state = "2"
+
+[apt]
+root = "behavior"
+state = "2"
+
+[webshell]
+root = "platform"
+state = "2"
+
+[wiper]
+root = "behavior"
+state = "2"
+
+[malware]
+root = "behavior"
+path = "gen"
+state = "2"
+
+[malicious]
+root = "behavior"
+path = "gen"
+state = "2"
+
+[android]
+root = "platform"
+state = "2"
+
+[apk]
+root = "platform"
+state = "2"
+
+[elf]
+root = "platform"
+state = "2"
+
+[androidos]
+root = "platform"
+state = "2"
+
+[epoc]
+root = "platform"
+state = "2"
+
+[freebsd]
+root = "platform"
+state = "2"
+
+[iphoneos]
+root = "platform"
+state = "2"
+
+[linux]
+root = "platform"
+state = "2"
+
+[macos]
+root = "platform"
+state = "2"
+
+[palm]
+root = "platform"
+state = "2"
+
+[solaris]
+root = "platform"
+state = "2"
+
+[sunos]
+root = "platform"
+state = "2"
+
+[symbos]
+root = "platform"
+state = "2"
+
+[unix]
+root = "platform"
+state = "2"
+
+[win]
+root = "platform"
+state = "2"
+
+[win2k]
+root = "platform"
+state = "2"
+
+[wince]
+root = "platform"
+state = "2"
+
+[winnt]
+root = "platform"
+state = "2"
+
+[heur]
+root = "method"
+state = "2"

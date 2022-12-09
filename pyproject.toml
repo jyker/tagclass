@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "tagclass"
+version = "0.1.0"
+description = "TagClass: Class-Determined Tag Parsing of Anti-malware Engines for Crowdsourced Malware Annotation"
+authors = ["jyker <jyk.kongkong@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.8.13"
+typer = "0.6.1"
+toml = "0.10.2"
+rich = "12.6.0"
+pyparsing = "3.0.9"
+
+[tool.poetry.dev-dependencies]
+pytest-cov = "3.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+tagclass = 'tagclass.cli:main'

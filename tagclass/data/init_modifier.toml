@@ -1,0 +1,39 @@
+[agent]
+root = "modifier"
+state = "2"
+
+['artemis']
+root = "modifier"
+state = "2"
+
+[cve]
+root = "modifier"
+state = "2"
+
+[not]
+root = "modifier"
+state = "2"
+
+[variant]
+root = "modifier"
+state = "2"
+
+[suspicious]
+root = "modifier"
+state = "2"
+
+[unsafe]
+root = "modifier"
+state = "2"
+
+[ioc]
+root = "modifier"
+state = "2"
+
+[unwanted]
+root = "modifier"
+state = "2"
+
+[irc]
+root = "modifier"
+state = "2"

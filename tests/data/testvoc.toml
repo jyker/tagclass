@@ -1,0 +1,8 @@
+[worm]
+root = "behavior"
+state = "2"
+
+[ransomware]
+root = "behavior"
+alias = "ransom"
+state = "2"
